@@ -1,0 +1,36 @@
+table{
+	border-spacing: 0px;
+}
+div.placar{
+	padding-bottom: 10px;
+	text-align: center;
+}
+div.game{
+	border-style: solid;
+	border-width: 20px;
+	border-color: rgb(22,50,76);
+	margin: auto;
+	display: table;
+	border-collapse: separate;
+	white-space: normal;
+	line-height: normal;
+	color: -internal-quirk-inherit;
+	text-align: start;
+	font-variant: normal;
+}
+div.y{
+	display: flex;
+	background-color: black;
+}
+div.x{
+	border-style: solid;
+	border-width: .1px;
+	overflow: hidden;
+	height: 15px;
+	width: 15px;
+	background-color: black;
+}
+div.controles{
+	text-align: center;
+	padding-top: 1rem;
+}
