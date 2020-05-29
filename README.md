@@ -10,5 +10,5 @@
 * `git checkout`: manipula as linhas do tempo
 * `git merge`: unir linhas do tempo
 * `git push`: envia alterações locais para o repositório remoto
-* `git clone https://github.com/diegossena/JRB-Monitor.git`: clona o projeto / repositório
+* `git clone https://github.com/diegossena/snake.git`: clona o projeto / repositório
 * `git pull`: puxa do repositório remoto
